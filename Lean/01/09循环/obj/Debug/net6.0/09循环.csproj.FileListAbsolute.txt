@@ -1,0 +1,15 @@
+D:\练\01\09循环\bin\Debug\net6.0\09循环.exe
+D:\练\01\09循环\bin\Debug\net6.0\09循环.deps.json
+D:\练\01\09循环\bin\Debug\net6.0\09循环.runtimeconfig.json
+D:\练\01\09循环\bin\Debug\net6.0\09循环.dll
+D:\练\01\09循环\bin\Debug\net6.0\09循环.pdb
+D:\练\01\09循环\obj\Debug\net6.0\09循环.csproj.AssemblyReference.cache
+D:\练\01\09循环\obj\Debug\net6.0\09循环.GeneratedMSBuildEditorConfig.editorconfig
+D:\练\01\09循环\obj\Debug\net6.0\09循环.AssemblyInfoInputs.cache
+D:\练\01\09循环\obj\Debug\net6.0\09循环.AssemblyInfo.cs
+D:\练\01\09循环\obj\Debug\net6.0\09循环.csproj.CoreCompileInputs.cache
+D:\练\01\09循环\obj\Debug\net6.0\09循环.dll
+D:\练\01\09循环\obj\Debug\net6.0\refint\09循环.dll
+D:\练\01\09循环\obj\Debug\net6.0\09循环.pdb
+D:\练\01\09循环\obj\Debug\net6.0\09循环.genruntimeconfig.cache
+D:\练\01\09循环\obj\Debug\net6.0\ref\09循环.dll

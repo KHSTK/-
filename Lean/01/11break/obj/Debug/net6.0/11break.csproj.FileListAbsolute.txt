@@ -1,0 +1,15 @@
+D:\练\01\11break\bin\Debug\net6.0\11break.exe
+D:\练\01\11break\bin\Debug\net6.0\11break.deps.json
+D:\练\01\11break\bin\Debug\net6.0\11break.runtimeconfig.json
+D:\练\01\11break\bin\Debug\net6.0\11break.dll
+D:\练\01\11break\bin\Debug\net6.0\11break.pdb
+D:\练\01\11break\obj\Debug\net6.0\11break.csproj.AssemblyReference.cache
+D:\练\01\11break\obj\Debug\net6.0\11break.GeneratedMSBuildEditorConfig.editorconfig
+D:\练\01\11break\obj\Debug\net6.0\11break.AssemblyInfoInputs.cache
+D:\练\01\11break\obj\Debug\net6.0\11break.AssemblyInfo.cs
+D:\练\01\11break\obj\Debug\net6.0\11break.csproj.CoreCompileInputs.cache
+D:\练\01\11break\obj\Debug\net6.0\11break.dll
+D:\练\01\11break\obj\Debug\net6.0\refint\11break.dll
+D:\练\01\11break\obj\Debug\net6.0\11break.pdb
+D:\练\01\11break\obj\Debug\net6.0\11break.genruntimeconfig.cache
+D:\练\01\11break\obj\Debug\net6.0\ref\11break.dll
